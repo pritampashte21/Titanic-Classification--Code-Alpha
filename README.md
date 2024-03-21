@@ -1,5 +1,5 @@
-# Titanic-Classification
-Make a system which tells whether the person will be save from sinking. 
+# Titanic-Classification 
+A system which tells whether the person will be save from sinking. 
 Importing Libraries: Import necessary libraries.
 These include Pandas for data manipulation, NumPy for numerical operations, Matplotlib and Seaborn for data visualization, and scikit-learn for machine learning tasks.
 Loading Dataset: Load the Titanic dataset from a CSV file into a Pandas DataFrame. 
